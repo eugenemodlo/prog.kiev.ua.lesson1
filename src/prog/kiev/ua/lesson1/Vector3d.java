@@ -1,7 +1,5 @@
 package prog.kiev.ua.lesson1;
 
-import java.util.Arrays;
-
 public class Vector3d {
     private int xCoordinate = 0;
     private int yCoordinate = 0;
