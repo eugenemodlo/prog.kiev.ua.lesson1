@@ -14,7 +14,10 @@ public class Main {
 		Triangle triangleOne = new Triangle(10, 20, 20);
 		System.out.println(triangleOne.getSquare());
 		
-		
+//		int[] point = {2, 2, 4};
+//		Vector3d vectorA = new Vector3d(point);
+//
+//		vectorA.getScalarMultiply()
 	}
 
 }
