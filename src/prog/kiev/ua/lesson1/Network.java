@@ -1,7 +1,5 @@
 package prog.kiev.ua.lesson1;
 
-import java.util.Arrays;
-
 public class Network {
     private String networkName;
 
