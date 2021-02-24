@@ -1,9 +1,9 @@
 package prog.kiev.ua.lesson1;
 
 public class Vector3d {
-    private int xCoordinate = 0;
-    private int yCoordinate = 0;
-    private int zCoordinate = 0;
+    private int xCoordinate;
+    private int yCoordinate;
+    private int zCoordinate;
 
     public Vector3d(int xCoordinate, int yCoordinate, int zCoordinate) {
         this.xCoordinate = xCoordinate;
